@@ -12,9 +12,4 @@
   <a href="https://www.instagram.com/jpmgs/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/jpmgs"/>
   </a>
-<div align="center">
-  
-![Snake animation](https://github.com/felipebaltazar/felipebaltazar/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
