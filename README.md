@@ -4,7 +4,7 @@ Olá Curioso 👋👀👀👀
 💰 DOE VIA PIX 💰 </p> 
 <h1 align="center">
  
-#jpmgs1@gmail.com
+# jpmgs1@gmail.com
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
  
 <div align="center">
