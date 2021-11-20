@@ -1,4 +1,4 @@
-### Olá Curioso 👋👀👀👀
+<div align="center"> ### Olá Curioso 👋👀👀👀</div>
 
 <div align="center">
   <a href="https://github.com/jpmgs1">
@@ -6,8 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmgs1&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmgs1&show_icons=true&theme=merko)
 
 Atualmente o que faço na Github
 
