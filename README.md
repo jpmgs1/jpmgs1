@@ -1,5 +1,10 @@
-### Olá Curioso 👋👀👀👀 
-
+ 
+<p align="center"> 
+### Olá Curioso 👋👀👀👀
+💰 DOE VIA PIX 💰 </p> 
+<h1 align="center">
+ 
+jpmgs1@gmail.com
 
 <div align="center">
   <a href="https://github.com/jpmgs1">
