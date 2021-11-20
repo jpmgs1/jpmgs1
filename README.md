@@ -1,6 +1,5 @@
- 
 <p align="center"> 
-### Olá Curioso 👋👀👀👀
+Olá Curioso 👋👀👀👀
 <p align="center">
 💰 DOE VIA PIX 💰 </p> 
 <h1 align="center">
