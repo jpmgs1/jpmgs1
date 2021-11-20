@@ -1,6 +1,5 @@
-<a="center"> 
-  ### Olá Curioso 👋👀👀👀 
-</a>
+### Olá Curioso 👋👀👀👀 
+
 
 <div align="center">
   <a href="https://github.com/jpmgs1">
