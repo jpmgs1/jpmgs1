@@ -19,7 +19,7 @@ jpmgs1@gmail.com
  
 <h1 align="center"> 
  <p align="center">
-  <a href="https://www.instagram.com/jpmgs/" alt="Instagram"></h1></a>
+  <a href="https://www.instagram.com/jpmgs/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/jpmgs"/>
   
 
