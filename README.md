@@ -22,6 +22,6 @@
   <a href="https://www.instagram.com/jpmgs/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/jpmgs"/>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/jpmgs1"><img title="Author" src="https://img.shields.io/badge/Autor-jpmgs1-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
