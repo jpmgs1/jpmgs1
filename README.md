@@ -3,9 +3,10 @@
 
 <h1>
 <p align="center"> 💰 DOE VIA PIX 💰 </p>
-<p align="center"> <b><font face="Helvetica"> 
-PIX: ❖ jpmgs1@gmail.com ❖</font>
-</b></p>
+</h1>
+<h1><p align="center"> <b> 
+PIX: ❖ jpmgs1@gmail.com ❖
+</h1></b></p>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
 <p align="center"> Qualquer valor será Bem-vindo. Obrigado. </p>
 
