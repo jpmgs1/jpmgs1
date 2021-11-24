@@ -83,7 +83,7 @@
         }
     ],
     "blocked": [],
-    "noMatch":"{Mensagem não corresponde a nenhuma das opções, tente novamente.|🤔}",
+    "noMatch":"{Mensagem não corresponde a nenhuma das opções, tente novamente.}",
     "smartreply":{
         "suggestions":["certo", "Qdo sair avise", "Tá perto de sair?", "Cuidado"],
         "clicktosend":false
