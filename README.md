@@ -5,7 +5,9 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p> 
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
 <p align="center"> Qualquer valor será Bem-vindo. Obrigado. </p>
-<p align="center"> <b> PIX: ❖ jpmgs1@gmail.com ❖ </b></p>
+<p align="center"> <b> 
+PIX: ❖ jpmgs1@gmail.com ❖ 
+</b></p>
 <p align="center"> Ajude a Melhorar o BOT </p>
 <div align="center">
   <a href="https://github.com/jpmgs1">
