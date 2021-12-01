@@ -27,3 +27,8 @@ PIX: ❖ jpmgs1@gmail.com ❖
 <p align="left">
 <a href="https://github.com/jpmgs1"><img title="Author" src="https://img.shields.io/badge/Autor-jpmgs1-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
+
+
+
+
+
