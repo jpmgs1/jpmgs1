@@ -5,7 +5,7 @@
 <p align="center"> 💰 DOE VIA PIX 💰 </p>
 </h1>
 <h1><p align="center"> <b> 
-PIX: ❖ jpmgs1@gmail.com ❖
+PIX: ❖ 84 988360022 ❖
 </h1></b></p>
 <p align="center">⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧⇧</p>
 <p align="center"> Qualquer valor será Bem-vindo. Obrigado. </p>
