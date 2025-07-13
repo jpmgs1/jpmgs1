@@ -27,6 +27,4 @@ PIX: ❖ 84 988360022 ❖
 </p>
 
 
-https://readme.so/editor
-
 
